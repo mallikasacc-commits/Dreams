@@ -1,4 +1,16 @@
-#codeproject
+# texture_segments.c/
+
+
+├── src/            # Source code (.c files)
+│   └── main.c
+├── include/        # Header files (.h files)
+│   └── main.h
+├── build/          # Build output (compiled binaries, object files)
+├── Makefile        # Build instructions
+├── README.md       # Project documentation
+└── .gitignore      # Files and folders to ignore in git
+-------------
+
 Step 1: Install a C Compiler
 First, you need a C compiler on your computer to transform the source code into an executable program.
  * On Windows: The most common way is to install MinGW-w64. You can download it from the official MinGW-w64 website. This provides a GCC compiler that runs on Windows.
